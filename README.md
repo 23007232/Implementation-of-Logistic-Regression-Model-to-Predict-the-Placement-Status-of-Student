@@ -13,7 +13,7 @@ To write a program to implement the the Logistic Regression Model to Predict the
 3. Find the null and duplicate values.
 4. Using logistic regression find the predicted values of accuracy , confusion matrices. 
 
-## Program:
+## Program and Output:
 ```
 /*
 Program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
@@ -91,8 +91,7 @@ lr.predict([[1, 80, 1, 90, 1, 1, 90, 1, 0, 85, 1, 85]])
 ```
 ![432114555-fd562591-a3b3-41cc-9bd7-1fc086399fcd](https://github.com/user-attachments/assets/b310d893-bcc0-4918-b292-4fcd8fa617cb)
 
-## Output:
-![the Logistic Regression Model to Predict the Placement Status of Student](sam.png)
+
 
 
 ## Result:
